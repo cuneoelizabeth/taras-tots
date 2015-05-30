@@ -1,0 +1,63 @@
+.header-plus-navbar {
+font-family: Lato;
+color: #FFF;
+}
+
+
+.header {
+  height: 175px;
+  background-color: rgba(40, 177, 124, 0.73);
+  width: 100%;
+  margin: 0px;
+
+}
+
+body {
+  margin: 0px;
+}
+
+.header-title {
+  color: #FFF;
+  margin: 0px;
+  padding-left: 200px;
+  padding-top: 76px;
+  font-size: 36px;
+  
+}
+.header-title-subtxt {
+
+  margin: 0px;
+  padding-left: 200px;
+  padding-top: 0px;
+  font-size: 15px;
+  font-family: Lato;
+}
+
+.navbar {
+  background-color: rgba(40, 177, 124, 0.73);
+  height: 44px;
+
+
+}
+.navbar li {
+  display: inline;
+  margin-left: 20px;
+  position: relative;
+  top: 13px
+}
+
+
+.navbar ul {
+  float:right;
+  margin: 0px;
+  margin-right: 60px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar a:hover {
+        color: yellow;
+}
